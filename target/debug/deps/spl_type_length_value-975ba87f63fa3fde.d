@@ -1,0 +1,9 @@
+D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\libspl_type_length_value-975ba87f63fa3fde.rmeta: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\error.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\length.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\state.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\variable_len_pack.rs
+
+D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\spl_type_length_value-975ba87f63fa3fde.d: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\error.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\length.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\state.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\variable_len_pack.rs
+
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\lib.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\error.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\length.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\state.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-type-length-value-0.3.1\src\variable_len_pack.rs:

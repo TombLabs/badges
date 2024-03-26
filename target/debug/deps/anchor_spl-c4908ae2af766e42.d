@@ -1,0 +1,10 @@
+D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\libanchor_spl-c4908ae2af766e42.rmeta: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\associated_token.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\mint.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_2022.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_interface.rs
+
+D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\anchor_spl-c4908ae2af766e42.d: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\associated_token.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\mint.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_2022.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_interface.rs
+
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\lib.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\associated_token.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\mint.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_2022.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anchor-spl-0.29.0\src\token_interface.rs:

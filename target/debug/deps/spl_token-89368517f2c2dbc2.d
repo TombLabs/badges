@@ -1,0 +1,10 @@
+D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\libspl_token-89368517f2c2dbc2.rmeta: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\error.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\instruction.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\native_mint.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\processor.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\state.rs
+
+D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\spl_token-89368517f2c2dbc2.d: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\error.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\instruction.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\native_mint.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\processor.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\state.rs
+
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\lib.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\error.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\instruction.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\native_mint.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\processor.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-4.0.0\src\state.rs:

@@ -1,0 +1,9 @@
+D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\libspl_tlv_account_resolution-67f56bb7afbebbc5.rmeta: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\account.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\error.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\seeds.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\state.rs
+
+D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\spl_tlv_account_resolution-67f56bb7afbebbc5.d: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\account.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\error.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\seeds.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\state.rs
+
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\lib.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\account.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\error.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\seeds.rs:
+C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-tlv-account-resolution-0.5.1\src\state.rs:
