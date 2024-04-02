@@ -1,9 +1,0 @@
-D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\num_enum_derive-83978d87fa001f94.dll: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\enum_attributes.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\parsing.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\utils.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\variant_attributes.rs
-
-D:\Tombstoned\Tomb Labs\Sapphire\Development\badges\target\debug\deps\num_enum_derive-83978d87fa001f94.d: C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\lib.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\enum_attributes.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\parsing.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\utils.rs C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\variant_attributes.rs
-
-C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\lib.rs:
-C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\enum_attributes.rs:
-C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\parsing.rs:
-C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\utils.rs:
-C:\Users\kidph\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\variant_attributes.rs:
